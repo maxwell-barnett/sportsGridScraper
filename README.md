@@ -1,6 +1,6 @@
-#Web Scraper for NFL Immaculate Grid
+# Web Scraper for NFL Immaculate Grid
 
-##sportsGridScraper:
+## sportsGridScraper:
 Uses BeautifulSoup4 and requests packages to scrape pro-football-reference.com for players that have played for the teams that the user inputs.
 
 For example, the top three players listed that have played for both the Arizona Cardinals and Atlanta Falcons would be:
